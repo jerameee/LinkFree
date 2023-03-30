@@ -1,0 +1,24 @@
+{
+  "name": "Jeremy Fortenberry",
+  "displayStatsPublic": false,
+  "type": "personal",
+  "bio": "Cloud | Identity & Access Management | Identity Governance | IaC | API Lifecycle Management...📍You can find me at the intersection of Business and Technology",
+  "avatar": "https://github.com/jerameee.png,
+   "links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/jerameee",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeremy-f-570672239/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/jeramee_tech",
+      "icon": "FaTwitter"
+    }
+  ]
+}
